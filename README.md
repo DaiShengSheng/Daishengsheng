@@ -4,9 +4,10 @@
 ----
 
 <a href="https://github.com/Daishengsheng">
-  <img align="left" src="https://github-readme-stats-azmiao.vercel.app/api/top-langs/?username=Daishengsheng&layout=compact" />
+  <img align="left" src="https://github-readme-stats-Daishengsheng.vercel.app/api/top-langs/?username=Daishengsheng&layout=compact" />
 </a>
 
+学过的都扔上来算了：
 
 ![](https://img.shields.io/badge/-python-yellow) ![](https://img.shields.io/badge/-Javascript-orange) ![](https://img.shields.io/badge/-Html-red) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-C%2B%2B-brightgreen) 
 
