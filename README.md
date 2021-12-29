@@ -8,6 +8,7 @@
 - 🛠Playing Genshin Impact
 
 从21-12-30开始统计的访问量：
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Daishengsheng.github) 
 
 ![](https://img.shields.io/badge/-python-yellow)  ![](https://img.shields.io/badge/-Java-green) ![](https://img.shields.io/badge/-Javascript-orange) ![](https://img.shields.io/badge/-Html-red) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-C%2B%2B-brightgreen)
