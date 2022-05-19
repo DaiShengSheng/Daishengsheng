@@ -3,7 +3,7 @@
 </a>
 
 🎉今天又是头秃的一天呢
-- 🌍Work in miHoYo
+- 🌍Work in TapTap
 - 🚀Run faster than bug
 - 🛠Playing Genshin Impact
 
