@@ -4,7 +4,7 @@
 
 🎉今天又是头秃的一天呢！孩子不会写代码，随便写的（确信）
 
-🛠雀魂插件绝赞咕咕中！欢迎大家来康我家<a href="https://pcrtool.cn" target="_blank">工具姬</a>！
+🛠雀魂插件绝赞咕咕中！王座之间骑马ing）
 
 - 🌍Work in miHoYo
 - 🚀Run faster than bug
