@@ -1,6 +1,6 @@
 <a href="https://github.com/Daishengsheng">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Daishengsheng&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"/>
-  <img src="https://genshin-card.getloli.com/58/3008741.png" alt="genshin-card" />
+  <img align="right" src="https://genshin-card.getloli.com/58/3008741.png" alt="genshin-card" />
 </a>
 
 🎉今天又是头秃的一天呢
