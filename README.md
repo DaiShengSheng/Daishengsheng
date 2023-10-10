@@ -6,7 +6,7 @@
 
 🛠雀魂插件绝赞咕咕中！（发牌姬你罪大恶极）
 
-- 🌍Work in miHoYo
+- 🌍Work in Shanghai
 - 🚀Run faster than bug
 - 🎮Playing Genshin Impact
 - 🀄 Mahjong can't bring happiness
